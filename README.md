@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Noah a Masters of Electrical Engineering student at the University of Melbourne.
+- 👋 Hi, I’m Noah
+- I'm Studying Masters of Electrical Engineering.
 
 <!---
 njensz/njensz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
